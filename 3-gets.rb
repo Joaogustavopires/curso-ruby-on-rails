@@ -12,4 +12,4 @@ puts yearLaunch
 puts " Informe o preço do Filme:"
 price = gets.chomp.to_f
 puts price
-puts price.class
+# puts price.class

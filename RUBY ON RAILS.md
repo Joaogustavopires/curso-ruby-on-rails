@@ -1,12 +1,6 @@
 \*\*\*\*\*\*\* RUBY ON RAILS\*\*\*\*\*\*\*\*\*\*
 
-
-
 Quiz 1 - Fundamentos Ruby
-
-
-
-
 
 Qual é o nome da função em Ruby que é utilizada para imprimir mensagens dentro de um programa?
 
