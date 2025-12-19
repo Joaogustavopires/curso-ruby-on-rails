@@ -112,7 +112,10 @@ Os exercícios estão organizados na pasta `exercicios/` e têm como objetivo re
 
 ## 🧑‍💻 Autor
 
-**João Gustavo Pires da Costa**
-🎓 Estudante de **Ciência da Computação (PUC Minas)**
-💻 Foco em **Back-end com Ruby on Rails**
+**João Gustavo Pires da Costa**  
+
+🎓 Estudante de **Ciência da Computação (PUC Minas)**  
+
+💻 Foco em **Back-end com Ruby on Rails**  
+
 🔗 GitHub: [https://github.com/Joaogustavopires](https://github.com/Joaogustavopires)
