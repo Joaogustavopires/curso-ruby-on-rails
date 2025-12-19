@@ -23,19 +23,19 @@ address("Portugal")
 
 
 # 4- Avaliação do Filme
-def rating_movie(qtdRating)
+def rating_movie(qtdRating) #quantadida de  avaliação
     puts "Informe o nome do filme:"
     movie_name = gets.chomp
-    sum = 0
+    sum = 0 #soma
     for i in 1..qtdRating
         puts "Digite a nota para o filme:"
-        note = gets.chomp.to_f
-        sum += note
+        note = gets.chomp.to_f #nota + converter p/ float
+        sum += note #soma += nota 
     end
     puts "Média de avaliação do filme #{movie_name} é: #{sum / qtdRating}"
 end
 
 puts "Deseja fazer quantas avaliações:"
-rating = gets.chomp.to_i
+rating = gets.chomp.to_i #avaliação + converter p/ int
 
-rating_movie(rating)
+rating_movie(rating) #método

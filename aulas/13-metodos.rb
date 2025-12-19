@@ -10,7 +10,7 @@ end
 
 # 2-Método para somar dois números
 def sum()
-    puts 5 + 4
+    puts 5 + 4  #exibe na tela
 end
 
 #sum()
